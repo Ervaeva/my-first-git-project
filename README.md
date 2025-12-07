@@ -1,5 +1,5 @@
 this is my git project.
-This was added from feture-readme.
-First update 
-Second update
- Third update
+This was added from future-readme.
+First update. 
+Second update.
+Third update.
